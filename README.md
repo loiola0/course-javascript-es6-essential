@@ -1,2 +1,2 @@
-# course-javascript-es6-essential
-JavaScript es6 review course
+# Course JAVASCRIPT ES6 ESSENTIAL
+JavaScript es6 review course offered Digital Innovation One
